@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 📖 Training Smart Content Creators Based on HTML5 (2018.06 ~ 2018.11)
 
 ### Link
-- [Github Blog](https://jjdev93.github.io)
+- [Github Blog](https://wndms05.github.io)
 
 
 ### Tech stacks
